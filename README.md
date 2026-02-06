@@ -13,6 +13,7 @@ npx degit tlyboy/mcp-client-starter my-project
 ```bash
 pnpm install
 pnpm dev
+pnpm build
 ```
 
 ## 使用许可
